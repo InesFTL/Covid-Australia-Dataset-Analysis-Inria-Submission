@@ -6,8 +6,11 @@ My submission for the INRIA-APHP-assignement : https://github.com/agramfort/inri
 - data.db  : Base de données sqlite contenant deux tables.
 - Notebook_Final_1.ipynb : Jupyter Notebook présentant l'exploration et le nettoyage des données fournis
 - detect_duplicates.ipynb : Jupyter Notebook présentant la fonction *detect_duplicates* qui rend en sortie le dataframe **df_patient** sans doublons.
-                      Le notebook contient aussi la session *pytest* lancé pour tester la fonction *detect_duplicates* à partir du fichier *test.py* 
-                      ainsi que d'autre tests optionnels.
+                            Cette fonction trouve les doublons, les supprime de la table en ne gardant qu'une seule entrée. Pour la table **df_patient** 
+                            on trouve 7.43% de doublons.
+                            Le notebook contient aussi la session *pytest* lancé pour tester la fonction *detect_duplicates* à partir du fichier *test.py* 
+                            ainsi que d'autre tests optionnels.
+                            
 - test.py : Fichier contenant notre fonction *detect_duplicates* et son pytest 
 - Notebook_Final_2.ipynb : Jupyter Notebook présentant la jointure entre le dataframe sans doublons **df_patient** et le dataframe **df_pcr** et la prévalence
                      des tests PCR
@@ -15,7 +18,8 @@ My submission for the INRIA-APHP-assignement : https://github.com/agramfort/inri
 - *df_dedup_clean.csv* : Fichier csv contenant le dataframe **df_patient** nettoyé et corrigé des données incohérentes mais contenant toujours les doublons
 - *df_pcr_clean_final.csv* : Fichier csv contenant le dataframe **df_pcr** nettoyé et corrigé des données incohérentes 
 - *df_patient_dup.csv* : Fichier csv contenant tout les doublons du dataframe **df_patient** pour les 10 000 premières entrées. Ce fichier permet de tester
-                         pour la fonction pytest.
+                         pour la fonction pytest. Ce fichier ne contenant que des doublons permet de vérifier rapidement si les doublons sont bien supprimés sur 
+                         un  plus petit échantillons.
 - *df_patient_clear_final_f.csv* : Fichier csv contenant le dataframe **df_patient** issue de la fonction *detect_duplicates* 
 - *df_patient_pcr_clean.csv* : Fichier csv contenant la jointure entre le dataframe **df_patient** et **df_pcr** nettoyé et sans doublons par la clé *patient_id*
 
