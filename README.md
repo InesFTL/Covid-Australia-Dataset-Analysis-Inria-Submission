@@ -26,10 +26,8 @@ My submission for the INRIA-APHP-assignement : https://github.com/agramfort/inri
 
 ## Requirements
 - python ==3.6.4
-- Sqlachemy
 - pandas == 1.0.5
 - fuzzywuzzy == 0.18.0
 - python-Levenshtein==0.12.0
-- time
 - seaborn ==0.10.1
 - matplotlib ==3.2.2
