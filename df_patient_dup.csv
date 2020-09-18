@@ -1,0 +1,621 @@
+,Unnamed: 0,patient_id,given_name,surname,street_number,address_1,phone_number,address_2,postcode_updated,state_updated,suburb_updated,dob_updated,age_final
+467,467,897079,aiden,mesecke,6.0,cameron strzeet,07 34339249,None,2500,nsw,clayyon,1938,82
+488,488,749150,benjamin,weidenhoffer,436.0,kadina crescent,03 02607538,None,7310,tas,joyner,1954,66
+539,539,200235,mitchell,stephenson,56.0,rosman circuit,03 85151806,None,2539,nsw,eastwood,1932,88
+605,605,291232,alicia,clarke,39.0,badenoch crescent,07 16836996,golden down,4066,qld,gidgegannup,1970,50
+1085,1085,915131,georgia,hope,176.0,constitution avenue,04 70023929,None,3025,vic,brunswick heads,1938,82
+1152,1152,365956,hollie,hope,42.0,blacket street,08 41637341,rosemount,2154,nsw,risdon vale,1991,29
+1156,1156,625893,isabelle,benger,139.0,cotter road,04 92251225,timaru heights,2096,nsw,bethania,1981,39
+1213,1213,609930,taloa,chowdgurdy,15.0,lewin street,02 25001242,None,2192,nsw,mortlake,1903,117
+1269,1269,599097,casey,None,17.0,roseberh street,08 36636317,minjarra,2285,nsw,figtree,1970,50
+1468,1468,535165,connor,green,0.0,bambridge street,04 00830746,corowa estate,4507,qld,greenwood,1997,23
+1508,1508,316454,ellorah,parr,12.0,bosworth circuit,08 40688028,killuke,3523,vic,ardeer,1903,117
+1599,1599,942393,hannah,simmonds,98.0,webster street,02 74860059,None,2285,nsw,cundletown,1975,45
+1603,1603,356609,joshua,bellamy,41.0,namatjira drive,03 61524567,None,4574,qld,clayfield,1963,57
+1673,1673,221789,nicholas,fitzpatrick,3429.0,taylor place,08 37654995,None,4560,qld,normanhuest,1960,60
+1703,1703,385195,jake,george,7.0,burkitt srreet,04 75210574,the willows,4551,qld,paralowie,2008,12
+1769,1769,437054,taliah,monaco,15.0,national circuit,0,None,4211,qld,hillside,1917,103
+1930,1930,992027,josh,bellamy,41.0,namatjira drive,03 61524567,None,4574,qld,clayfield,1963,57
+1944,1944,669936,lewis,matthews,24.0,allawah flats,03 95122427,None,3216,vic,attunga,1969,51
+2188,2188,567535,riley,white,78.0,hargrave street,08 49078666,None,2257,nsw,empire bay,1993,27
+2211,2211,853753,shakira,white,7.0,cawker place,07 46137414,halycon,3218,vic,st clair,1992,28
+2223,2223,859746,isabelle,benger,1.0,cotter road,04 92251225,timaru heights,2096,nsw,bethania,1953,67
+2227,2227,742120,georgua,wenb,1.0,None,08 64633594,None,2603,act,mitcham,1972,48
+2335,2335,297133,lucas,lauss,7.0,place evst,03 19986135,None,3131,vic,penrith,2011,9
+2407,2407,821864,talissa,brammy,11.0,james street,02 77001738,tourist park,5333,sa,maryborough,1906,114
+2420,2420,260928,giaan,verdins,9.0,archibald street,03 61840871,uppingham,3140,vic,revesby,1928,92
+2443,2443,179141,teegan,fletcher-uones,1.0,brown street,0,None,2030,nsw,woollahra,1905,115
+2452,2452,497686,madison,morrkspn,14.0,barber crwscent,08 58415422,inverpine ret vill,3199,vic,carlingford,1948,72
+2463,2463,148320,matthew,reid,21.0,hawker street,03 28467146,None,2026,nsw,woollahra,1921,99
+2465,2465,246649,mitchell,stephenson,58.0,rosman circuit,03 85151806,None,2539,nsw,eastwood,1932,88
+2587,2587,358517,anna,maspn,133.0,cataractdstreet,04 64903061,locn 5940,2035,nsw,somerton park,1959,61
+2706,2706,293510,tyler,able,154.0,marcus clarke street,02 00493853,None,3333,vic,wanniasa,1980,40
+2737,2737,942981,kobe,campbell,17.0,giles street,02 93280129,None,4790,qld,penshurst,1974,46
+2786,2786,322724,callum,ryn,46.0,fawkner street,08 77386999,beechworth,2300,nsw,burleig h wsters,1933,87
+3173,3173,123387,adam,schumajnn,4.0,bunurung close,02 01272164,None,2289,nsw,bonython,1927,93
+3300,3300,507442,oliver,green,26.0,None,03 20439985,None,2148,nsw,caravonica,1965,55
+3303,3303,471602,briekle,tippuns,2542.0,janari place,02 04356284,None,6530,wa,benowa,1970,50
+3327,3327,757011,jacob,vaccaro,46.0,alice jackson crescent,08 81376824,bardarra,4077,qld,bundanoon,1931,89
+3406,3406,686712,lachan,ryan,31.0,hagen pace,08 27875756,None,4232,qld,caulfield north,1993,27
+3419,3419,586799,takeisha,sydorowkch,2.0,yumba avenue,08 42964775,springdale,4387,qld,beenkeigh,2013,7
+3434,3434,905113,marianne,kaminskas,60.0,gabrieglpplace,02 94161922,None,2680,nsw,wangi wacngi,1958,62
+3470,3470,162292,cameron,monjean,40.0,hicks street,04 96506229,None,5108,sa,figtree,1975,45
+3509,3509,430817,matthew,dixon,52.0,musson close,03 49085763,None,3214,vic,highett,1909,111
+3526,3526,248066,geotgia,hope,176.0,constitution avenue,04 70023929,pindara medical centre,3025,vic,brunswick heads,1938,82
+3550,3550,549916,madeline,beadell,117.0,groom street,08 81656149,None,4218,qld,wyoming,1923,97
+3634,3634,156481,mollie,cochrane,48.0,ligertwoodnutreet,04 12734849,None,5116,sa,cook,1913,107
+3638,3638,298137,nicholas,gibbett,11.0,hinchcliffe place,04 12466041,brightwater villas,6535,wa,anglesea,1976,44
+3660,3660,195665,luke,hilton,65.0,bamfordmxtreet,04 36333360,None,2773,nsw,tyabb,1977,43
+3665,3665,222232,bianda,kelley,4.0,dixon drive,08 65508869,None,2650,nsw,bundaberg,1950,70
+3723,3723,653083,nicholas,wyllie,37.0,rochford street,03 14954510,None,2147,nsw,parkinson,1914,106
+3872,3872,210155,taalia,None,19.0,mcnicollyplace,02 00325977,None,6230,wa,orange,1918,102
+3902,3902,787687,riley,mccurdy,24.0,shumack street,07 86329539,None,4850,qld,beenleigh,1993,27
+3936,3936,849971,lillian,None,19.0,bugden avenue,04 65225381,calderwood,3138,vic,point vernon,1921,99
+3968,3968,808140,bridget,white,5.0,wittenoom acrescent,04 67557853,None,4670,qld,peregiwn beach,1977,43
+3979,3979,299919,isabella,clarke,3.0,hirschfeld crescent,02 12420398,None,4210,qld,scarborough,1910,110
+4013,4013,537625,kyle,sternry,17.0,parkhill street,07 79180070,None,3429,vic,yangebup,1955,65
+4032,4032,205848,rosa,aldous,99.0,dunlop street,07 02455018,fourways,2651,nsw,acland,1993,27
+4040,4040,986364,samantha,divona,9.0,hart close,07 85673315,None,6016,wa,dover heithts,1906,114
+4074,4074,831109,kai,campbell,149.0,toms ctescent,02 31449585,None,7310,tas,toowoomba,1974,46
+4112,4112,345404,stella,rawlings,337.0,maruld astreet,07 73995028,None,5061,sa,mosman,1937,83
+4137,4137,839180,amber,slape,58.0,jukes place,03 79611930,seaforth vlge,4510,qld,nort hyde,1907,113
+4144,4144,301260,talia,antoku,6.0,hoskingdplace,08 43580956,None,4670,qld,None,1934,86
+4146,4146,877881,lillian,None,1.0,bugden avenue,04 65225381,calderwood,3138,vic,point vernon,1921,99
+4167,4167,304923,benjamin,parr,55.0,mountain circuit,04 28843825,westmead accom,3194,vic,rochedale south,1981,39
+4247,4247,232212,sophie,dorling,51.0,groveland crescent,03 66741441,philip centre,2147,nsw,claymore,1988,32
+4316,4316,430170,james,webb,14.0,baker garden,07 24098836,normanhurst,3500,vic,boggabri,1930,90
+4343,4343,418766,lauren,mcauslan,4.0,hall street,02 28324179,colonial fillage,3135,vic,brookvale,1939,81
+4360,4360,632356,lachlan,berry,5.0,de little circuit,08 23486619,kiloran,2650,nsw,bangor,1993,27
+4376,4376,632893,sienna,rundle,23.0,horan place,04 09956648,None,7018,tas,tighes hill,1940,80
+4440,4440,220263,ebony,rawlings,83.0,spica street,0,sunny braes,3156,vic,albany creek,1990,30
+4453,4453,446371,juliana,reid,12.0,deckeryplace,03 08239672,None,2527,nsw,bomaderry,1974,46
+4525,4525,916228,nathan,brain,35.0,milariostreet,02 36697860,buffel rise,3204,vic,malvern east,1938,82
+4612,4612,906564,george,rees-curwen,19.0,daintree crescent,02 45366810,australia arcade,830,nt,baxter,1907,113
+4693,4693,152428,matthew,coxon,11.0,read place,03 69841288,tullinga,2473,nsw,chain vakrly bay,1931,89
+4758,4758,595164,jaiden,passmore,10.0,barlow street,08 58446698,burrawang,2617,act,toowoomba,1929,91
+4782,4782,565226,jack,matthews,16.0,campbelltreet,02 97887340,shingledale,3048,vic,urangan,1925,95
+4790,4790,128328,cassandra,twang,15.0,chewings street,08 61745219,None,2118,nsw,normanville,1968,52
+4816,4816,890074,talia,chowdhury,15.0,lewin street,02 25001242,None,2192,nsw,mortlake,1903,117
+4819,4819,396208,kyle,sherriff,5.0,jim pike avenue,02 22087371,cuthberts court,6111,wa,bossley park,1948,72
+4860,4860,967482,hamish,lipsett,1.0,rischbiethecescent,04 46255071,None,2041,nsw,greensbyorough,1928,92
+4908,4908,742762,jacinta,morcom,24.0,None,08 50709974,gurnamunya,2452,nsw,greenwith,1939,81
+4922,4922,489770,braedon,wehr,4.0,chandler street,07 23239728,None,2207,nsw,eatons hill,1980,40
+4962,4962,462916,samantha,divoja,8.0,hart close,07 85673315,None,6016,wa,dover heights,1906,114
+4969,4969,786268,benjamin,seddon,113.0,monaro crwscent,03 07007789,None,4060,qld,yunderup,1905,115
+4977,4977,747096,logn,reid,14.0,clubbe crwscent,07 94492272,springwood mews,3134,vic,eaglehawk,1956,64
+4986,4986,268616,tyler,able,154.0,marcus clarke street,02 00493853,None,3333,vic,wanniassa,1983,37
+5044,5044,464986,None,chittleborough,7140.0,serpentine street,07 87444375,None,3500,vic,plumpton,1993,27
+5089,5089,560115,abbey,cropper,16.0,bowden crescent,02 90211615,pangani,6231,wa,ringwood,1920,100
+5100,5100,729698,nicholas,jankunas,21.0,wakefield avenue,04 96643830,None,5019,sa,wingham,1952,68
+5123,5123,713079,connor,hindley,50.0,alice jackson crescent,03 37920549,bristin,4355,qld,ringwoodeast,1931,89
+5177,5177,247595,kadin,burrill,4.0,wanganeen avenue,04 06111626,None,4825,qld,mount isa,1997,23
+5261,5261,954568,kiria,ryan,3.0,beazley crescent,02 95589027,kimberley,2067,nsw,rosewhite,1989,31
+5292,5292,573048,katie,mccartly,903.0,charteris crescent,07 63811102,None,2820,nsw,elliminyt,1910,110
+5309,5309,160272,deakin,oleszcuk,9.0,farrer street,03 77767257,None,2257,nsw,beecroft,1973,47
+5337,5337,816046,xani,souledzis,34.0,macrossan crescent,07 24955924,sec 1,2191,nsw,mullumbimby creek,1989,31
+5354,5354,456007,abby,geraghty,48.0,bird place,07 31638236,riverbend,2210,nsw,macquaqrie field,1947,73
+5392,5392,462441,christian,jolly,20.0,bragg street,08 90163028,watchorns hill,2640,nsw,burleigh waters,1917,103
+5408,5408,972379,adam,weller,43.0,pankhurst crescent,04 63020165,None,2222,nsw,kareela,1940,80
+5462,5462,870692,kiria,ryanw,3.0,beazley crescent,02 95589027,kimberly,2067,nsw,rosewhite,1989,31
+5515,5515,622710,hannah,struck,1.0,academy close,08 98425146,None,2158,nsw,kingsford,1939,81
+5571,5571,894760,alexander,ongley,32.0,None,03 67891595,boonooloo,2229,nsw,yarra junction,1995,25
+5595,5595,193500,connor,green,0.0,bambridgewtreet,04 00830746,corowa estate,4507,qld,greenwood,1997,23
+5654,5654,616479,None,wekhr,57.0,christmas street,03 15451529,None,3068,vic,mount victoria,1982,38
+5662,5662,155480,matisse,coulson,32.0,tauss place,02 87564221,None,6050,wa,boggabri,1960,60
+5675,5675,626670,deakin,campbell,42.0,chirnside circuit,04 66848999,summervale,3202,vic,strahan,1933,87
+5694,5694,209162,None,green,0.0,glass place,0,None,3802,vic,fish creek,1979,41
+5697,5697,427069,zack,turtur,17.0,denny sxreet,04 85338899,glen wilga,2195,nsw,nedlands,1939,81
+5700,5700,371421,mitchell,rundle,50.0,hacking crescent,0,None,3182,vic,greenacre,1961,59
+5707,5707,773249,charlie,condessa,146.0,dowling tfeet,08 42379980,None,3136,vic,emu pajrk,1953,67
+5742,5742,297097,kirra,choi-lundberg,102.0,centaurus street,08 69584599,None,6168,wa,naremburn,1926,94
+5753,5753,641287,amy,conaghty,6.0,agnew street,04 97154459,None,2130,nsw,hurstbridge,1988,32
+5792,5792,752873,lochlan,blake,258.0,None,02 84630666,None,6000,wa,4216,1908,112
+5803,5803,886635,None,chittleborough,719.0,serpentine street,07 87444375,guest hse,3500,vic,plumpton,1992,28
+5820,5820,690189,brett,moolenaar,5.0,somerville street,04 98378586,None,3174,vic,somerton park,1926,94
+5846,5846,277826,isabekka,jeffries,1.0,bimberi crescent,0,None,3340,vic,coolaro,1975,45
+5903,5903,484708,louis,blackwell,10.0,dartnell street,02 97010866,None,2046,nsw,lake bibra,1983,37
+5926,5926,595236,juliana,wilkins,28.0,namatjira rive,08 41452383,rocor,2800,nsw,wagaman,1908,112
+5933,5933,962034,tynan,clarke,18.0,cargelligo street,04 33825031,canberra hse,4051,qld,eleebana,1920,100
+5953,5953,374336,rosa,aldoshu,9.0,dunlop street,07 02455018,fourways,2615,act,acland,1956,64
+5956,5956,858826,joel,bradshaw,68.0,kerrigan street,04 68871598,None,2192,nsw,lauder dale,1946,74
+5972,5972,808387,cooper,stephenson,38.0,disney court,02 73266082,None,3158,vic,somerton park,1908,112
+5989,5989,925782,charlie,whait,29.0,None,07 85078212,corridella,6020,wa,ebden,1946,74
+6000,6000,617039,serena,angie,26.0,simpson street,08 14978298,None,830,nt,oak flats,1936,84
+6003,6003,205686,eden,minatds,0.0,ampt poace,03 94573464,None,5023,sa,mittaglng,1956,64
+6040,6040,300753,riley,simmonds,166.0,ambalindum street,07 02048377,None,3150,vic,ascot vale,1981,39
+6086,6086,669354,jacob,svenson,48.0,wagga soreet,02 03546747,walhalla,2009,nsw,kempsey,1943,77
+6108,6108,503561,thokas,dreyer,13.0,bredbo close,08 15210915,None,2034,nsw,lindiveld,1986,34
+6141,6141,136683,jasmyn,nicoll,24.0,None,04 98503021,None,2305,nsw,bayswater,1991,29
+6150,6150,385713,finlay,stephenson,192.0,pleasance place,04 17443323,jalbarragup homestead,6101,wa,elwood,1942,78
+6159,6159,223728,olivia,zarevac,9.0,henty street,08 87474386,indra,2026,nsw,tannymorel,1945,75
+6164,6164,966491,emiily,bartel,12.0,worrall street,08 28969178,iron shoe lodge,2076,nsw,moranbah,1936,84
+6180,6180,154722,oscar,charitnopdis,4.0,knox street,07 77488304,guyra,2758,nsw,lillian rock,1923,97
+6184,6184,217473,harry,bristow,315.0,officer crescent,07 29162528,None,6210,wa,waroona,1966,54
+6245,6245,822030,sam,culph,2.0,bywaters place,02 52980940,None,6167,wa,clayfield,1982,38
+6277,6277,981864,leah,waller,45.0,stradbroke street,08 04502781,None,2766,nsw,None,1955,65
+6315,6315,116061,casey,campbell,21.0,cloncurry street,03 45970253,None,4350,qld,lavington,1968,52
+6395,6395,235639,belinda,forgie-wendt,52.0,kulgera street,03 17328767,merri banks,4223,qld,forest hill,1910,110
+6427,6427,207524,joshua,sidman,61.0,jelbart street,03 03072599,legacy vlge,3057,vic,tweed deads,1908,112
+6436,6436,377785,natalre,madigatn,13.0,None,02 24976027,meath mews retrmnt vlge,3023,vic,prospect,1950,70
+6437,6437,441678,edwwrd,baillie,6.0,majura avenue,04 21767460,legend park,4118,qld,bayview,1937,83
+6439,6439,853622,lachlan,wynne,64.0,beela place,04 48475510,None,6112,wa,terranora,1962,58
+6464,6464,204188,jack,stanley,29.0,sturdee crescent,04 16557952,None,6101,wa,thornlie,1910,110
+6514,6514,517216,timothy,papazacharoudakis,1601.0,francis street,04 27462876,None,4605,qld,ingham,1934,86
+6524,6524,589415,zali,cirvydas,21.0,melba street,08 65451564,None,4740,qld,burnie,1902,118
+6547,6547,841184,luke,christo,11.0,duffy street,08 60883043,None,2594,nsw,toowoomba,1976,44
+6553,6553,367598,vanessa,browne,196.0,beazley crescent,02 53907917,melrose clinic,3021,vic,elwood,1953,67
+6574,6574,337069,hannah,pagden,4.0,mellor circuit,02 17184151,lakefront rtermnt vlge,4567,qld,charletown,1982,38
+6627,6627,961858,abbey,green,5.0,wilkins street,08 75306674,None,6110,wa,ballina,1904,116
+6650,6650,802461,jaco,clarie,4.0,kaberry place,03 25819653,None,3171,vic,paralowie,1999,21
+6681,6681,381373,makayla,cheshire,107.0,walhallow street,08 79660642,None,2825,nsw,dooralong,1937,83
+6686,6686,924516,evan,reid,2.0,minchin place,03 34884476,weemilah,2795,nsw,mount stuart,1916,104
+6701,6701,741517,bethany,snell,7.0,bilby place,02 88624423,None,3981,vic,burnid,1955,65
+6702,6702,925963,brody,george,26.0,yelland place,08 08943701,appollonia hse,5042,sa,burwood,1987,33
+6724,6724,834595,takeisha,sydorowich,5.0,yumba avenue,08 42964775,None,4387,qld,beenleigh,2013,7
+6725,6725,645726,jye,csrone,31.0,elimatta street,03 07028632,None,2768,nsw,spearwood,1946,74
+6765,6765,933238,isaac,nakone,19.0,collier street,02 69439226,None,6017,wa,brighton,1964,56
+6799,6799,105695,alana,reid,37.0,stanley street,03 18033773,None,2550,nsw,keilor east,1989,31
+6801,6801,934379,delaney,kermeen,9.0,wallen place,08 37919311,None,4405,qld,st kildw east,1939,81
+6802,6802,278296,paul,matthews,43.0,ainslie ravenue,07 99527795,ochr,2035,nsw,blacktown,1989,31
+6824,6824,761237,danidle,haggett,258.0,amess place,02 62350511,None,2484,nsw,wentworth,1976,44
+6827,6827,498138,macormack,ryan,7.0,ponsford place,07 35367744,camerons creek,4575,qld,burnside,1925,95
+6864,6864,169518,emiily,simmonds,221.0,colebatch place,08 74184903,pine leigh,3187,vic,broken hill,1957,63
+6894,6894,426284,molli,cochraine,38.0,ligertwood street,04 12734849,None,5116,sa,cook,1913,107
+6926,6926,144331,tristan,hirsinger,33.0,eggleston crescent,0,None,4700,qld,invermay,1998,22
+6984,6984,141777,adam,weller,438.0,pankhurst crescent,04 63020165,None,2222,nsw,kareel,1940,80
+7034,7034,811752,amber,slape,58.0,jukes place,03 79611930,seaforth vlge,4510,qld,north ryde,1907,113
+7038,7038,845993,christopher,ferris,10.0,coxen street,04 55681057,None,6169,wa,belmont,1900,120
+7053,7053,126270,deaikn,egglesone,88.0,None,07 52159999,None,2157,nsw,emerald,1914,106
+7054,7054,555224,danielle,haggett,258.0,amess olace,02 62350511,None,2484,nsw,wentworth,1976,44
+7055,7055,869217,nicholas,fitzpatrick,342951.0,taylor place,08 37654995,None,4560,qld,normanhurst,1968,52
+7070,7070,776513,emma,petersen,137.0,schlam place,08 45840166,keanor,2500,nsw,cooks hill,1973,47
+7080,7080,438767,jake,george,1.0,burkitt street,04 75210574,the willows,4551,qld,paralowie,2008,12
+7089,7089,631985,dealin,oleszcuk,7.0,farrer street,03 77767257,None,2257,nsw,beecroft,1973,47
+7101,7101,340011,tahlia,coleman,24.0,furey street,02 02079822,None,3163,vic,boondall,1900,120
+7161,7161,671302,thomas,webb,58.0,giles street,03 10035431,tintagel,2756,nsw,willetton,1967,53
+7162,7162,235150,fyynlay,green,22.0,baracchi crescent,07 83761404,None,6070,wa,broadmeadows,1993,27
+7163,7163,150519,mitchell,mcgregor,36.0,burkitt street,07 17713514,None,4272,qld,kilcoy,1988,32
+7180,7180,718396,joshua,godfrey,180.0,narambi street,03 08600403,None,4567,qld,morwell,1992,28
+7207,7207,605740,emiily,groenewege,760.0,mcluckie crescent,02 33544106,None,2640,nsw,redhead,1934,86
+7238,7238,767614,connor,harrington,262.0,numbat okace,03 96922045,palm lake resort,2870,nsw,albion park rail,1921,99
+7278,7278,972565,tahlia,capurso,117.0,carrington street,02 93292584,None,2513,nsw,berala,1941,79
+7331,7331,418953,caleb,stanley,27.0,melrose rive,03 07982032,None,2125,nsw,auburn,1961,59
+7341,7341,580751,koben,webb,63.0,herron crescent,07 50066933,None,2224,nsw,findn,1993,27
+7365,7365,576055,jacob,svenson,98.0,wagga street,02 03546747,walhalla,2009,nsw,kempsey,1989,31
+7369,7369,867610,caleb,clayden,10.0,moore sbreet,07 30939969,fairbank,4575,qld,bayswater north,1953,67
+7384,7384,310448,emma,neville,434.0,mcelhone court,07 23299763,None,6109,wa,burnside,1967,53
+7401,7401,475897,declen,mahony,32.0,bandt pxkace,07 49534847,None,3195,vic,valla,1975,45
+7439,7439,780206,aleisha,ramiro,80.0,laptz close,08 60316509,None,6432,wa,somerset,1989,31
+7440,7440,211361,beth,jessup,696.0,maitland street,08 34815487,allandale,3844,vic,lance creek,1932,88
+7442,7442,892038,lauren,musolino,96.0,berghofer court,07 90471587,None,4680,qld,ourimbah,1927,93
+7463,7463,389987,ned,beaty,8.0,thomas place,03 51040311,midlands terrace,3032,vic,jindalee,1907,113
+7472,7472,848728,jackson,couzens,130.0,allchin circuit,04 58119726,denture clnc,2546,nsw,prospect,1984,36
+7473,7473,799476,james,webb,14.0,baker garden,07 24098836,None,3500,vic,boggabri,1930,90
+7572,7572,355116,taylah,miles,7.0,burrinjuck crescent,03 64653013,rockwood,5125,sa,adamstown heights,1931,89
+7615,7615,331414,finlay,stephenson,192.0,pleasance place,04 17443323,jalbarragup homestead,6102,wa,elwood,1942,78
+7670,7670,800399,abb,matthews,31.0,kennewell place,04 88982844,longridge,2650,nsw,cooroy,1954,66
+7680,7680,988916,adam,kempe,193.0,None,04 56431962,meath mews retrmnt vlge,5070,sa,marcj,1924,96
+7703,7703,459014,william,white,24.0,borrowdale street,03 89262726,None,2400,nsw,carlintnford,1993,27
+7715,7715,539727,jack,bradshaw,4.0,mccaughey stbeet,04 14765024,narrabburralodge,6108,wa,ascot,1950,70
+7773,7773,243704,kye,nguyen,244.0,circuit wakelin,07 76329772,brentwood village,2250,nsw,granville,1935,85
+7799,7799,237263,noah,hindmarch,20.0,katherine avenue,03 37899397,None,3806,vic,rosettja,1975,45
+7817,7817,953159,kiera,szczecnski,9.0,melrosj dive,08 94905506,None,3941,vic,lynbrook,1905,115
+7822,7822,683043,jake,wynne,29.0,burkitt street,03 46616418,None,4270,qld,greenwith,1975,45
+7833,7833,578977,harrison,brislow,16.0,barangaroo street,04 16594097,None,5353,sa,carrum,1932,88
+7843,7843,588455,charlie,godfrry,13.0,ebenezerr street,03 13532032,rosedale,2440,nsw,warrandte,1982,38
+7875,7875,348004,william,yost,7.0,barringer street,02 37249432,coaake,3030,vic,fairlight,1957,63
+7876,7876,117118,connor,hindley,50.0,alice jackson crescent,03 37920549,bristin,4355,qld,ringwood east,1931,89
+7894,7894,177506,mikhaili,clarke,83.0,bramina s xation,02 71424114,None,2749,nsw,loganlea,1964,56
+7934,7934,591087,harry,bristow,351.0,officer crescent,07 29162528,None,6210,wa,waroona,1966,54
+7939,7939,338540,madison,clarke,917.0,anembo stfeet,04 31690680,None,2710,nsw,bangor,1949,71
+7977,7977,676623,eleanor,bovam,13.0,stevenson treet,04 56575284,dejarra,6153,wa,ballarat north,1983,37
+7992,7992,821511,mitchell,stanley,13.0,daley crescent,03 90661389,None,3022,vic,caravonica,1975,45
+8004,8004,362048,jack,vincent,803.0,toms crescent,04 93625543,None,3179,vic,campsie,1997,23
+8017,8017,788499,mitxhell,niklabs,82.0,mount vernon drive,04 14828181,village on the green,6060,wa,bowal,1939,81
+8036,8036,743789,hayleu,grigolaro,45.0,nanson place,02 94291744,None,3214,vic,miami,1966,54
+8049,8049,973420,jazx,cror,27.0,clift crescent,07 93412565,None,3201,vic,lakemba,1957,63
+8051,8051,992769,amy,mason,1155.0,balsillie crescent,02 48437211,None,2126,nsw,view bank,1999,21
+8057,8057,584607,sophie,clarke,7.0,macdowell street,07 51448277,deergarden caravn park,3624,vic,muradup,1990,30
+8091,8091,259204,None,kelley,37.0,bourchier close,07 57849903,None,3977,vic,mona vale,1934,86
+8136,8136,651238,stephanie,jolly,13.0,nanson lace,02 72656849,None,2486,nsw,wellard,1954,66
+8144,8144,123834,samuel,brain,15.0,macpherson street,07 30779523,sunrest stud,3233,vic,boondall,1999,21
+8182,8182,434071,thomas,None,2.0,gormanston x rescent,03 87848683,None,3500,vic,anglesea,1984,36
+8240,8240,823055,coopr,lindhoflm,243.0,mackellar crescent,08 51596665,None,6753,wa,safety beach,1943,77
+8241,8241,782385,cooper,rya,60.0,smeaton circuit,04 35746986,None,4350,qld,sale,2005,15
+8356,8356,474368,timothy,mccarthy,35.0,griffith p lace,07 60099656,cantlay farm,3151,vic,mount perry,1902,118
+8365,8365,798961,sophie,clarke,7.0,macdowell street,07 51448277,None,3624,vic,muradup,1990,30
+8437,8437,334847,ell,wehner,39.0,andrews stxreet,04 47674345,wallaces ck,3585,vic,scarborugh,1920,100
+8465,8465,151272,mikayla,green,35.0,bavin street,02 25160752,rowethorpe trinity hostel,3977,vic,riverwood,1958,62
+8499,8499,475233,melinda,mamczak,24.0,gatehouse place,08 76276723,None,2096,nsw,cecil hills,1982,38
+8567,8567,135709,taalia,alderman,0.0,crowder circuit,07 40705624,blue springs,3051,vic,ballarat,1952,68
+8573,8573,969953,christopher,sami arun,94.0,bourne street,03 40173882,None,2480,nsw,ceduna,1997,23
+8575,8575,319222,talia,antoku,9.0,hoskinfplace,08 43580956,None,4670,qld,None,1934,86
+8592,8592,472050,noahn,hindmacrh,20.0,katherine avenue,03 37899397,None,3806,vic,rosetta,1975,45
+8601,8601,103089,benjamin,weidenhoffer,436.0,kadina crescent,03 02607538,None,7310,tas,joyner,1954,66
+8608,8608,447186,kai,cure,1.0,kennerley street,08 43839279,None,2097,nsw,terranora,1919,101
+8611,8611,432255,emiily,simmonds,221.0,colebatch place,08 74184903,pine leigh,3187,vic,broken hill,1957,63
+8617,8617,475348,luke,mercorella,16.0,gollan street,02 57389153,None,2614,act,the entrance,1963,57
+8620,8620,684326,hollie,hope,13.0,blacket street,08 41637341,None,2154,nsw,risdon vale,1991,29
+8621,8621,682074,eleanor,boam,13.0,stevenson street,04 56575284,dejarra,6153,wa,ballarat north,1983,37
+8683,8683,558168,darcy,hurey,4.0,derry street,04 37548847,None,2780,nsw,jerrabomberra,1939,81
+8708,8708,127302,amber,davidd,28.0,sexton street,04 87755694,edinburgh vlge,2213,nsw,golden trove,1942,78
+8715,8715,473145,angus,bishop,46.0,eggleston crescent,02 35014181,murray vale lodge,2142,nsw,blayney,1935,85
+8730,8730,764471,alicia,clarke,39.0,badenoch crescent,07 16836996,golden down,4065,qld,gidgegsnnup,1970,50
+8744,8744,935002,lachlzn,clarke,17.0,antill street,02 38028318,combogolong,2084,nsw,cohuna,1924,96
+8751,8751,994923,charlotte,ruskin,25.0,crozier circuit,04 85107991,None,7407,tas,bogangar,1973,47
+8756,8756,926547,louis,blackell,10.0,dartnelh street,02 97010866,None,2046,nsw,bibra lame,1983,37
+8768,8768,403446,april,rawlings,37.0,lelta place,0,windsor dental centre,5011,sa,blacksmiths,1920,100
+8788,8788,865820,ella,beaumaros,12.0,fullagar crescent,08 60989775,None,3943,vic,wongaling beach,1997,23
+8792,8792,655913,christian,white,7.0,snodgrass crescent,0,flower growers,2880,nsw,ngunnawal,1992,28
+8813,8813,408474,mitchell,stanle,8.0,mount vernon drive,03 19653778,None,4680,qld,hamilton,1935,85
+8815,8815,449903,hayden,shepherd,19.0,gamor street,03 14630666,None,3079,vic,nar nar goon,1924,96
+8819,8819,919745,jackson,mccarmhy,114.0,clemenger sfreet,03 08842416,None,3162,vic,bondi junction,1954,66
+8846,8846,637857,stella,matthews,16.0,canberra avenue,04 26366892,croydon,2011,nsw,waramanga,1969,51
+8877,8877,894878,richard,hermans,13.0,goodparla street,07 26649590,nevah farm,3371,vic,valentine,1998,22
+8882,8882,258272,jack,jessup,509.0,stone place,08 77804659,mayflower retrmnt vlge,4000,qld,batlow,1986,34
+8892,8892,139148,samuel,menzoes,28.0,benny place,07 21513738,oreel,4555,qld,toronto,1947,73
+8911,8911,257403,maggie,quilliam,11.0,blamey crescent,07 48179754,None,4557,qld,bundaberg,1955,65
+8942,8942,974802,hannah,struck,1.0,academy close,08 98425146,None,2138,nsw,kingsford,1939,81
+8971,8971,193246,madeleine,None,33.0,jansz crescent,04 36021764,None,3825,vic,avondale geights,1956,64
+9016,9016,955783,ethan,matthews,104.0,crisp circuit,07 14141423,corombie,4650,qld,tully,1985,35
+9028,9028,448848,alexander,grubb,30.0,kinchela crescent,07 41414706,None,5092,sa,batlow,1912,108
+9069,9069,552558,None,miles,36.0,love street,07 17901367,bonholme,6054,wa,birkdale,1964,56
+9101,9101,953349,amber,rau,32.0,sproule circuit,04 73208149,None,2060,nsw,worrigkee,1978,42
+9128,9128,165184,isaac,broxam,736.0,morrison street,03 78526997,None,3160,vic,penguin,1942,78
+9140,9140,847320,None,wehr,57.0,christmas street,03 15451529,None,3068,vic,mount victoria,1982,38
+9154,9154,657749,marleigh,noble,7.0,strickland crescent,03 14568594,None,4812,qld,allambie heights,1920,100
+9203,9203,593896,lia,louca,53.0,ballumbir street,03 78308335,None,6060,wa,kariong,1948,72
+9212,9212,131556,cooper,ryan,65.0,smeaton circuit,04 35746986,None,4350,qld,sale,2005,15
+9294,9294,925854,mitchell,rundle,6.0,macdowell street,0,rockwood,3155,vic,paddington,1939,81
+9309,9309,398451,grayson,lowe,4.0,melba street,04 24267634,tantallon,2672,nsw,sunnybank,1989,31
+9313,9313,840045,caleb,afford,21.0,hawkesbury crescent,02 94565984,None,2880,nsw,boulder,1908,112
+9318,9318,722995,ethan,mccarthy,20.0,blackburn street,02 81234799,None,2106,nsw,robina,1943,77
+9329,9329,612177,chrisgopher,matthews,237.0,cullen street,07 49051688,None,6450,wa,mayfirld,1951,69
+9335,9335,393313,leah,egan,10.0,fawknertreet,04 11572578,None,2528,nsw,warracknbeal,1953,67
+9356,9356,939141,casey,None,17.0,rosebery street,08 36636317,None,2285,nsw,figtree,1970,50
+9421,9421,950181,ebony,rawlings,83.0,spica street,0,sunny braes,3156,vic,albany creek,1990,30
+9441,9441,848987,elizabeth,colquhoun,23.0,hawdon street,08 18308644,crosslands,3140,vic,tharbogang,1973,47
+9461,9461,132940,aleisha,ramiro,80.0,laptz jlose,08 60316509,None,6432,wa,somerset,1959,61
+9465,9465,306717,lillian,coleman,159.0,allambeen street,03 72090059,congreave court,5214,sa,kelmscott,1985,35
+9489,9489,148784,abbey,mcgrlhor,107.0,maclagan street,04 60018297,wyuna,3977,vic,kardknya,1993,27
+9495,9495,281413,jordyn,wallen,0.0,tallara parkway,08 27976473,None,2074,nsw,tuart hill,1924,96
+9546,9546,577843,isabella,lissner,33.0,standbridge place,03 16576051,None,2291,nsw,spring hill,1940,80
+9555,9555,165030,marcus,reinbhach,1.0,dive place,08 38366451,marina northbridge,3931,vic,hazelbrook,1967,53
+9558,9558,307397,isabella,lowe,23.0,woollum street,04 74526652,None,4101,qld,deniston east,1959,61
+9563,9563,155182,noah,hindmarch,20.0,katherine avenue,03 37899397,None,3806,vic,rosetta,1975,45
+9584,9584,769113,kera,szczecinski,8.0,melrose drive,08 94905506,None,3941,vic,lynbrook,1905,115
+9596,9596,399345,dillon,aspinall,679.0,squire place,04 72158350,None,2341,nsw,botany,1992,28
+9648,9648,212036,luke,hilton,68.0,bamford street,04 36333360,None,2773,nsw,tyabb,1977,43
+9653,9653,690348,andrew,ryan,20.0,mainwaring rich circuit,0,None,6000,wa,3020,1976,44
+9662,9662,212313,macormack,rynan,80.0,ponsford place,07 35367744,camerons creek,4575,qld,burnside,1925,95
+9684,9684,275405,emiily,bartel,12.0,worrall ltreet,08 28969178,iron shoe lodge,2076,nsw,moranbah,1936,84
+9702,9702,752694,beth,clarke,50.0,osmand street,08 91194518,kincumber nautical vlge,836,nt,port macquarie,1975,45
+9714,9714,541848,matthew,teague,11.0,morrison street,04 19702338,hawkesbury natural health acupuncture ce,7315,tas,None,1921,99
+9724,9724,794186,kyle,sherriff,5.0,jim pike avenue,02 22087371,cuthberts court,6111,wa,bossley park,1948,72
+9725,9725,189051,matthew,white,0.0,altsoncircuit,07 93690529,None,3204,vic,north sydney,1912,108
+9763,9763,109583,erin,rudd,6.0,totterdell street,07 56883796,mannafields farm,2731,nsw,cairns,1950,70
+9791,9791,521863,None,lipscombe,1075.0,wolgal place,07 35545742,cherry haven,3083,vic,chinchilla,1930,90
+9797,9797,195119,amber,None,79.0,burkitt street,02 31920085,reg simpson court,3142,vic,winston hills,1971,49
+9803,9803,910830,mitchell,madigan,8.0,vasey crescent,07 23987358,None,3500,vic,wangaratta,1924,96
+9806,9806,253412,mitchell,green,5.0,mckillop circuit,02 08989117,None,2220,nsw,glenmore park,1996,24
+9810,9810,641770,amber,theodore,10.0,ashburton circuit,07 80653308,None,5164,sa,laverton,1970,50
+9849,9849,612438,liam,lamprey,5.0,marou place,04 49778923,None,5086,sa,woy woy,2009,11
+9885,9885,101620,harriet,burnell,16.0,johnston street,03 94357788,sec 960,7301,tas,kingsford,1982,38
+9901,9901,987278,sophie,green,16.0,None,08 85475258,rocor,4159,qld,springwood,1991,29
+9908,9908,189743,mitchell,green,4.0,mckillop curcuit,02 08989117,None,2220,nsw,glenmore park,1996,24
+9912,9912,858795,grayson,lowe,9.0,melba street,04 24267634,tantallon,2627,nsw,sunnybank,1989,31
+9930,9930,918749,george,stubbs,30.0,schuler place,08 84533051,None,2118,nsw,north st ives,1965,55
+9937,9937,410414,melani,wheatley,54.0,antis street,02 86042707,jacklin park farmstay,3444,vic,eleban,1946,74
+9947,9947,123723,courtney,geraghty,13.0,goldfinchskircuit,08 27446355,ilumba gardens home,3013,vic,heathpool,1992,28
+9959,9959,388172,tristan,mednis,26.0,verbrugghen street,02 65534949,None,3129,vic,salisbury,1999,21
+9971,9971,246115,zac,george,128.0,bokhara circuit,03 27574258,None,2893,nsw,burwold,1923,97
+19,19,887201,mitchekl,stephenskon,58.0,rosman circuit,03 85151806,None,2359,nsw,eastwood,1932,88
+35,35,256730,xani,soulemezis,34.0,macrossan rescent,07 24955924,sec 1,2192,nsw,mullumbimby creek,1989,31
+40,40,627035,ellorah,parr,12.0,bosworth circuit,08 40688028,killune,3523,vic,ardeer,1903,117
+58,58,765987,alicia,clarke,39.0,badenoch crescent,07 16836996,None,4066,qld,gidgegannup,1970,50
+60,60,339931,madison,morrison,14.0,barber crescent,08 58415422,inverpine ret vill,3199,vic,carlingford,1948,72
+91,91,661353,beth,clarke,50.0,osmand nstreet,08 91194518,None,836,nt,port macquarie,1975,45
+124,124,803550,jake,george,5.0,burkitt street,04 75210574,the willows,4551,qld,paralowe,2008,12
+129,129,113986,samuel,menzies,28.0,benny place,07 21513738,oreel,4555,qld,toronto,1947,73
+140,140,894824,benjamin,seddon,113.0,monaro crescent,03 07007789,None,4060,qld,yunderup,1905,115
+182,182,827270,etahn,mccarthy,2014.0,blackburn street,02 81234799,None,2106,nsw,robina,1943,77
+203,203,642335,joshua,godfrey,180.0,narambi street,03 08600403,drayton,4567,qld,morwell,1992,28
+231,231,693128,kye,nguyen,24.0,wakelin circuit,07 76329772,brentwood village,2250,nsw,granville,1935,85
+237,237,293075,connor,green,0.0,corowa estate,04 00830746,bambridge street,4507,qld,greenwood,1997,23
+244,244,691460,benjamin,weidenhoffer,436.0,kadina crescent,03 02607538,None,7310,tas,joyndr,1954,66
+248,248,870746,tyler,able,15.0,marcus clarke street,02 00493853,None,3333,vic,wannissa,1983,37
+292,292,212547,stekla,matthews,164.0,canberra avenue,04 26366892,None,2011,nsw,waramanga,1969,51
+297,297,758271,aiden,meseek,6.0,cameron street,07 34339249,None,2500,nsw,clahton,1938,82
+301,301,577095,joshua,bellamly,41.0,namatjiracdrive,03 61524567,None,4574,qld,clayfield,1963,57
+332,332,798376,tristan,hirsinger,3.0,eggleston crescent,0,None,4700,qld,invermay,1998,22
+333,333,369544,georgia,hope,176.0,constitution avenue,04 70023929,None,3025,vic,brunswi heads,1938,82
+336,336,639439,casey,None,17.0,rosebery street,08 36636317,minjarra,2285,nsw,figtree,1970,50
+337,337,690978,hannah,simmomds,0.0,webster street,02 74860059,compass adjuster hills,2285,nsw,cundletown,1975,45
+362,362,881474,cooper,stephenson,36.0,disney court,02 73266082,None,3158,vic,somerton park,1908,112
+366,366,718467,brielle,tippins,2542.0,janari place,02 04356284,None,6530,wa,benoj,1989,31
+426,426,748307,taylah,miles,7.0,burrinjuckdcrescent,03 64653013,rockwood,5125,sa,adamstown heights,1997,23
+488,488,749150,benjamin,weidenhoffer,436.0,kadina crescent,03 02607538,None,7310,tas,joyner,1954,66
+516,516,827975,nicholas,fitzpatrick,3429.0,taylor place,08 37654995,None,4560,qld,normanhurst,1968,52
+538,538,844840,camefn,monjean,40.0,hicks steet,04 96506229,None,5108,sa,figtree,1975,45
+539,539,200235,mitchell,stephenson,56.0,rosman circuit,03 85151806,None,2539,nsw,eastwood,1932,88
+561,561,814998,tahlia,coleman,24.0,furey street,02 02079822,None,3163,vic,boondall,1900,120
+564,564,612153,isabelle,benger,10.0,cotter road,04 92251225,None,2096,nsw,bethaia,1981,39
+582,582,876665,madrlixe,beadell,117.0,groom street,08 81656149,None,4218,qld,wyoning,1923,97
+605,605,291232,alicia,clarke,39.0,badenoch crescent,07 16836996,golden down,4066,qld,gidgegannup,1970,50
+609,609,497827,hollie,hope,14.0,blacket street,08 41637341,None,2154,nsw,risdon vale,1991,29
+622,622,814635,katie,mccarthy,903.0,charteris crescent,07 63811102,eagle view,2820,nsw,elliminyt,1910,110
+635,635,431593,adam,schumann,20.0,bunurung close,02 01272164,None,2289,nsw,bonython,1927,93
+636,636,707274,nathan,brain,35.0,milari street,02 36697860,buffel rise,3204,vic,malvern east,1938,82
+662,662,257164,jacl,vincent,803.0,toms creucent,04 93625543,None,3189,vic,campsie,1997,23
+675,675,933727,belinda,forgie-wendt,52.0,kulgera street,03 17328767,merri banks,4242,qld,forest hill,1910,110
+707,707,566152,joel,bradshaw,13.0,kerrigan street,04 68871598,None,2192,nsw,lauderdale,1946,74
+742,742,631089,kobe,campbell,10.0,giles street,02 93280129,None,4700,qld,penshurst,1934,86
+774,774,494540,harriet,burnell,10.0,johnston street,03 94357788,sec 960,7301,tas,kingsford,1982,38
+780,780,303196,kiria,ryam,3.0,beazley crescent,02 95589027,kimberoey,2067,nsw,rosewhite,1989,31
+783,783,126790,bridget,white,5.0,wittenoom crescent,04 67557853,None,4670,qld,peregian beach,1977,43
+802,802,273416,mariane,kaminskas,69.0,gabriel place,02 94161922,None,2680,nsw,wangi wangi,1958,62
+842,842,359214,hannah,strcck,1.0,academy close,08 98425146,None,2159,nsw,kingsford,1939,81
+864,864,446809,joshua,sidman,61.0,legacy vlge,03 03072599,jelbart street,3057,vic,tweed heads,1908,112
+868,868,520571,melinda,mamczak,24.0,gatehouse place,08 76276723,None,2095,nsw,cecil nills,1982,38
+873,873,802965,thomas,None,2.0,gormanston crescent,03 87848683,kookaburra village,3500,vic,anglesea,1984,36
+889,889,673695,mattyew,dixon,52.0,millhouse crescent,03 49085763,None,3214,vic,highett,1909,111
+896,896,418714,None,lipscoimbe,1075.0,cherry haven,07 35545742,wolgal place,3083,vic,chinchilla,1930,90
+942,942,943523,taliah,monaco,15.0,national circuit,0,None,4211,qld,hillside,1917,103
+943,943,646237,emma,neville,433.0,mcelhone xourt,07 23299763,None,6198,wa,burnside,1952,68
+997,997,170390,jordyn,waller,0.0,tallara parkway,08 27976473,None,2074,nsw,tuart hill,1924,96
+1023,1023,871954,matthew,coxon,11.0,read place,03 69841288,tullinga,2473,nsw,chain valley bay,1931,89
+1027,1027,311791,olivia,zarevax,9.0,henty street,08 87474386,hillendale,2026,nsw,tannymorel,1945,75
+1047,1047,211195,sophie,green,16.0,None,08 85475258,rocor,4159,qld,sprihmgwood,1991,29
+1057,1057,848589,christopher,matthews,237.0,cullen street,07 49051688,None,6450,wa,mayfield,1951,69
+1085,1085,915131,georgia,hope,176.0,constitution avenue,04 70023929,None,3025,vic,brunswick heads,1938,82
+1100,1100,662926,None,green,93.0,doolette place,0,lonesome dove,2444,nsw,alice springs,1933,87
+1122,1122,366776,talia,chowdhury,66.0,lewin street,02 25001242,None,2192,nsw,mortlake,1991,29
+1129,1129,567010,lucas,lauss,6.0,jennings street,03 19986135,None,3131,vic,penrith,1974,46
+1139,1139,181264,lachlan,clarke,17.0,None,02 38028318,combogolong,2084,nsw,cohuna,1958,62
+1152,1152,365956,hollie,hope,42.0,blacket street,08 41637341,rosemount,2154,nsw,risdon vale,1991,29
+1156,1156,625893,isabelle,benger,139.0,cotter road,04 92251225,timaru heights,2096,nsw,bethania,1981,39
+1182,1182,899666,jac,bradshaw,4.0,mccaughey street,04 14765024,narraburra lodge,6108,wa,ascot,1950,70
+1184,1184,859224,cassandra,twang,15.0,chewings street,08 61745219,None,2118,nsw,normanville,1963,57
+1192,1192,984011,taalia,alderman,0.0,blue springs,07 40705624,crowder circuit,3051,vic,ballarat,1952,68
+1201,1201,489678,jacob,svenson,48.0,wagga street,02 03546747,walhalla,2009,nsw,kempsey,1943,77
+1204,1204,964909,abbry,gree,6.0,wilkins street,08 75306674,None,6110,wa,ballina,1940,80
+1209,1209,382762,rosa,aldous,99.0,dunlop street,07 02455018,fourways,2615,act,acland,1956,64
+1213,1213,609930,taloa,chowdgurdy,15.0,lewin street,02 25001242,None,2192,nsw,mortlake,1903,117
+1217,1217,866641,schkirra,whitf,7.0,cawker place,07 46137414,halycon,3218,vic,st clair,1992,28
+1227,1227,108512,charle,whait,20.0,None,07 85078212,None,6020,wa,ebden,1946,74
+1246,1246,988266,ebony,rawlinga,84.0,spica street,0,sunny braes,3159,vic,albany creek,1990,30
+1269,1269,599097,casey,None,17.0,roseberh street,08 36636317,minjarra,2285,nsw,figtree,1970,50
+1276,1276,618545,matbhew,reid,20.0,hawker street,03 28467146,None,2026,nsw,woollahra,1921,99
+1289,1289,250168,georgia,webb,1.0,None,08 64633594,None,2603,act,mitcham,1972,48
+1312,1312,502662,jacov,vaccafjo,46.0,alice jackson crescent,08 81376824,bardarra,4077,qld,bundanoon,1931,89
+1331,1331,274944,caleb,afford,211.0,hawkesbury rescent,02 94565984,None,2880,nsw,bouldeyr,1908,112
+1339,1339,402775,adam,kempe,183.0,None,04 56431962,meath mews retrmnt vlge,5070,sa,march,1924,96
+1340,1340,491182,amy,conaghty,6.0,agnew sgreet,04 97154459,None,2130,nsw,hurstbrbidge,1950,70
+1348,1348,759116,jack,mattheys,16.0,campbell atreet,02 97887340,shingledale,3048,vic,uranagn,1925,95
+1361,1361,700613,ned,beaty,8.0,thomas place,03 51040311,midlands terrace,3032,vic,jindlee,1907,113
+1375,1375,288014,bianca,kelley,4.0,dixon drive,08 65508869,None,2650,nsw,bundaberg,1950,70
+1377,1377,330203,macormack,ryan,7.0,ponsfordplace,07 35367744,camerons creek,4558,qld,burnside,1925,95
+1397,1397,275399,christopher,ferris,13.0,coxen street,04 55681057,None,6169,wa,belmont,1906,114
+1410,1410,594592,samantha,divona,9.0,hart vlise,07 85673315,None,6016,wa,dover heights,1906,114
+1420,1420,611411,amber,theofore,10.0,ashburtonkcircuit,07 80653308,None,5164,sa,laverton,1970,50
+1437,1437,301579,nicholas,wyllie,3.0,rochford street,03 14954510,None,2147,nsw,parkinson,1914,106
+1468,1468,535165,connor,green,0.0,bambridge street,04 00830746,corowa estate,4507,qld,greenwood,1997,23
+1491,1491,651025,jaiden,passmofe,15.0,barlow street,08 58446698,burrawang,2617,act,toowoomba,1929,91
+1566,1566,307990,eleanora,boam,13.0,stevensog street,04 56575284,dejarra,6153,wa,ballarat north,1983,37
+1583,1583,317215,riley,white,78.0,hargrav eztreet,08 49078666,None,2257,nsw,empire bay,1993,27
+1603,1603,356609,joshua,bellamy,41.0,namatjira drive,03 61524567,None,4574,qld,clayfield,1963,57
+1609,1609,423412,talixsa,brammy,11.0,wtreet james,02 77001738,tourist park,5333,sa,maryborough,1906,114
+1620,1620,140809,serena,angie,2.0,simpson street,08 14978298,None,830,nt,oak fqlts,1936,84
+1640,1640,791757,lachlan,wyhne,64.0,beela place,04 48475510,None,6112,wa,terranoa,1962,58
+1646,1646,250322,kle,sherriff,5.0,jim pike aenue,02 22087371,cuthberts court,6111,wa,bossley park,1948,72
+1669,1669,344883,darcy,hursey,4.0,derry street,04 37548847,None,2780,nsw,jerrabomberra,1939,81
+1673,1673,221789,nicholas,fitzpatrick,3429.0,taylor place,08 37654995,None,4560,qld,normanhuest,1960,60
+1682,1682,724712,teegan,fletcher-jones,98.0,brown street,0,None,2030,nsw,woollahra,1992,28
+1686,1686,658296,lachlan,ryan,31.0,hagen place,08 27875756,None,4223,qld,caulfield north,1993,27
+1692,1692,375494,amber,rau,32.0,sproule circuit,04 73208149,None,2060,nsw,worrigee,1978,42
+1695,1695,652433,charlie,godfrey,14.0,ebenezer sgreet,03 13532032,rosedale,2440,nsw,warrandyte,1909,111
+1703,1703,385195,jake,george,7.0,burkitt srreet,04 75210574,the willows,4551,qld,paralowie,2008,12
+1729,1729,564071,jaz,cromer,27.0,cliftscrescent,07 93412565,None,3201,vic,lakemba,1957,63
+1741,1741,956774,amber,None,59.0,burkitt street,02 31920085,reg simpson court,3142,vic,winston hills,1971,49
+1743,1743,767542,louis,blackwell,10.0,dartnell street,02 97010866,None,2046,nsw,bibra lake,1983,37
+1749,1749,144813,sophie,dorling,51.0,groveland crescent,03 66741441,None,2147,nsw,claymorx,1988,32
+1753,1753,442703,sienna,rundle,23.0,horan place,04 09956648,None,7018,tas,tighes hill,1940,80
+1775,1775,310017,None,wehr,57.0,christmas street,03 15451529,None,3068,vic,mount victoria,1982,38
+1780,1780,833547,stephanie,jolly,12.0,nanson place,02 72656849,None,2486,nsw,wellard,1954,66
+1794,1794,961291,jasmhn,nicoll,24.0,None,04 98503021,None,2350,nsw,bayswater,1991,29
+1802,1802,652076,maggie,quilliam,10.0,blamey cmescent,07 48179754,None,4557,qld,bundaberg,1982,38
+1810,1810,931516,deakun,oleszcuk,5.0,farrer street,03 77767257,None,2257,nsw,beecraoft,1973,47
+1812,1812,806544,noah,hinddarh,20.0,katherine avenue,03 37899397,None,3806,vic,rosetta,1975,45
+1846,1846,497710,chritepher,sami arun,94.0,bourne street,03 40173882,None,2480,nsw,ceduna,1997,23
+1863,1863,658924,lewis,matthews,24.0,allawah flats,03 95122427,None,3216,vic,attunga,1969,51
+1875,1875,402186,kadin,burrill,4.0,wanganeen avenue,04 06111626,None,4825,qld,mount isa,1987,33
+1886,1886,166262,sophpe,clarke,7.0,macdowelluetreet,07 51448277,deergarden caravn park,3624,vic,muradup,1990,30
+1956,1956,884108,leah,egan,10.0,fawkner street,04 11572578,None,2528,nsw,warracknabeal,1953,67
+1964,1964,576840,giaan,verdins,98.0,archibaldmstreet,03 61840871,uppingham,3140,vic,revesby,1928,92
+1965,1965,205228,takeisha,sydorowich,5.0,yumba avenue,08 42964775,springdale,4387,qld,beenleigh,2013,7
+1972,1972,972638,lillian,None,19.0,grylls crescent,04 65225381,calderowod,3138,vic,point vernon,1921,99
+1976,1976,777894,hamish,lipsstt,0.0,rischbieth crescent,04 46255071,None,2041,nsw,greensborough,1928,92
+2013,2013,302053,abbey,mcgregor,107.0,maclagan street,04 60018297,wyuna,3977,vic,kardinya,1993,27
+2015,2015,278589,timothy,mccarthy,35.0,griffith place,07 60099656,cantlay farm,3151,vic,mount p erry,1902,118
+2038,2038,353973,hayden,shepherd,18.0,gamor street,03 14630666,None,3079,vic,nar na r goon,1924,96
+2049,2049,584090,callum,ryan,46.0,fawkner street,08 77386999,beechworth,2300,nsw,burleigh waters,1933,87
+2075,2075,666134,jack,clarke,4.0,kaberry place,03 25819653,None,3171,vic,paralowie,1999,21
+2095,2095,883204,danielle,haggett,258.0,amess place,02 62350511,None,2484,nsw,wentworth,1976,44
+2153,2153,935700,matthew,white,0.0,altson circuit,07 93690529,None,3204,vic,midvale,1912,108
+2155,2155,941047,riley,mccurdy,23.0,shumack street,07 86329539,None,4805,qld,beenleigh,1993,27
+2158,2158,709996,lachlan,beryr,5.0,de little circuit,08 23486619,kiloran,2650,nsw,bangor,2009,11
+2236,2236,506845,koben,webb,63.0,herron crqscent,07 50066933,None,2224,nsw,findon,1993,27
+2243,2243,198511,anna,mason,133.0,keith street,04 64903061,locn 5940,2035,nsw,somerton park,1959,61
+2261,2261,965580,mollie,cochrane,38.0,ligertwood street,04 12734849,None,5116,sa,cook,1913,107
+2264,2264,251094,talia,antoku,9.0,hosking place,08 43580956,None,4670,qld,None,1934,86
+2284,2284,325314,lochlan,blak,2580.0,None,02 84630666,None,4216,qld,toowoomba,1908,112
+2336,2336,974829,tristtn,mednis,26.0,verbrugghen street,02 65534949,None,3129,vic,salisbury,1994,26
+2381,2381,471000,connor,hindley,50.0,alice jackson crescent,03 37920549,bega flats,4355,qld,ringwood east,1931,89
+2393,2393,857232,eden,minards,0.0,ampt place,03 94573464,None,5023,sa,mittagong,1956,64
+2505,2505,519139,stella,rawlings,347.0,marulda street,07 73995028,scotch college,5061,sa,mosman,1937,83
+2547,2547,594509,mikhaili,clarke,83.0,bramina station,02 71424114,None,2749,nsw,loganlea,1964,56
+2549,2549,731810,george,rees-curwen,29.0,daintreelcrrscent,02 45366810,australia arcade,830,nt,baxter,1907,113
+2591,2591,805475,james,webb,14.0,baker garden,07 24098836,normanhurst,3500,vic,boggabri,1930,90
+2597,2597,798012,tynan,clarke,27.0,cargelligo street,04 33825031,canberra hse,4051,qld,eleebana,1920,100
+2623,2623,219735,mitchell,madigan,8.0,vasey crescent,07 23987358,None,3599,vic,None,1924,96
+2629,2629,863264,benjain,parr,55.0,mountain xdrcuit,04 28843825,westmead accom,3194,vic,rochedale south,1981,39
+2634,2634,311830,taaila,None,16.0,mcnicoll place,02 00325977,None,6230,wa,orange,1918,102
+2662,2662,398185,april,rawligns,37.0,lelta place,0,windsor detul centre,5011,sa,blacksmiths,1920,100
+2675,2675,611083,emiilt,bartei,12.0,worrall street,08 28969178,iron shoe lodge,2076,nsw,moranbah,1936,84
+2706,2706,293510,tyler,able,154.0,marcus clarke street,02 00493853,None,3333,vic,wanniasa,1980,40
+2717,2717,997767,edward,baillie,8.0,majura avenue,04 21767460,None,4118,qld,bayview,1937,83
+2776,2776,270963,kai,campbell,14.0,toms crescent,02 31449585,None,7310,tas,toowoomba,1974,46
+2781,2781,959414,abbey,cropper,17.0,bowden crescent,02 90211615,pangani,6237,wa,ringwood,1920,100
+2794,2794,317029,isabella,jeffties,1.0,bimberi crescent,0,None,3340,vic,coolroo,1975,45
+2796,2796,358503,george,stubbs,30.0,schuler place,08 84533051,None,2118,nsw,north s ives,1965,55
+2822,2822,798045,kyle,sterry,17.0,parkhill street,07 79180070,None,3429,vic,yangebup,1955,65
+2856,2856,893153,zac,george,128.0,bokhara circuit,03 27574258,None,2830,nsw,burwood,1923,97
+2860,2860,204211,brody,george,26.0,yelland place,08 08943701,None,5042,sa,burwood,1928,92
+2864,2864,960952,luke,hilto,68.0,bamfors street,04 36333360,None,2773,nsw,tyabb,1977,43
+2867,2867,129984,ella,beaumaris,15.0,fullagar crescent,08 60989775,None,3943,vic,wongaling beach,1974,46
+2888,2888,772280,nicholas,gibbett,11.0,hinchcliffw e place,04 12466041,brightwater villas,6535,wa,anglesea,1976,44
+2905,2905,479551,aleisha,ramiro,95.0,laptz close,08 60316509,None,6432,wa,somerset,1989,31
+2908,2908,160545,evan,reid,2.0,minchin place,03 34884476,None,2795,nsw,mount stuart,1916,104
+2929,2929,237478,paul,matrehws,403.0,ainslie avenue,07 99527795,None,2035,nsw,blacktown,1989,31
+2931,2931,254363,declen,mahony,328.0,bandt place,07 49534847,None,3195,vic,valla,1975,45
+3003,3003,780481,juliana,reid,14.0,decker place,03 08239672,None,2527,nsw,bomaderry,1974,46
+3038,3038,608679,isabella,clarke,3.0,hirschfeld crescent,02 12420398,None,4210,qld,scarborough,1910,110
+3079,3079,129956,willuam,yosy,7.0,barringer street,02 37249432,coaake,3030,vic,fairlgiht,1957,63
+3088,3088,471931,jack,jessup,78.0,stone place,08 77804659,mayflower retrmnt vlge,4000,qld,batlow,1920,100
+3090,3090,161063,amber,slape,58.0,jukes place,03 79611930,seaforth vlge,4510,qld,north ryde,1907,113
+3100,3100,282051,abby,gerafhty,4.0,bird place,07 31638236,riverbdnd,2210,nsw,macquarie fields,1947,73
+3106,3106,972637,lauren,mcauslan,10.0,hall street,02 28324179,colonial village,3135,vic,brookvale,1939,81
+3155,3155,462644,charlie,condessa,146.0,dowling wtreet,08 42379980,None,3163,vic,emu oark,1953,67
+3166,3166,732543,luke,christo,11.0,duffy steeet,08 60883043,None,2594,nsw,toowoomba,1976,44
+3168,3168,551157,christian,jolly,20.0,bragg treet,08 90163028,watchorns hill,2634,nsw,burleigh waters,1917,103
+3169,3169,158005,isabella,lissner,33.0,standbridge place,03 16576051,None,2291,nsw,spring hell,1986,34
+3243,3243,791211,jacinta,morcom,25.0,None,08 50709974,None,2452,nsw,greenwth,1939,81
+3245,3245,294509,beth,jessup,696.0,maitland street,08 34815487,allan dale,3844,vic,lance creek,1932,88
+3253,3253,792111,oliver,green,26.0,None,03 20439985,None,2148,nsw,carabonica,1965,55
+3307,3307,417650,jye,carbone,31.0,elimatta street,03 07028632,inglewood,2768,nsw,spearwood,1946,74
+3364,3364,622220,thomas,webb,58.0,giles street,03 10035431,tintagel,2756,nsw,willtton,1967,53
+3416,3416,119675,addam,weller,43.0,pankhurst crescent,04 63020165,None,2222,nsw,kareett,1940,80
+3419,3419,586799,takeisha,sydorowkch,2.0,yumba avenue,08 42964775,springdale,4387,qld,beenkeigh,2013,7
+3440,3440,853158,zack,turtur,17.0,denny street,04 85338899,glen wilga,2195,nsw,nedlands,1939,81
+3473,3473,706200,tahlia,capurso,117.0,carrington street,02 93292584,None,2153,nsw,berala,1977,43
+3528,3528,290706,deakin,campbell,42.0,chirnside circuit,04 66848999,summervale,3202,vic,strqhan,1933,87
+3548,3548,625069,None,chittleborough,719.0,serpentine street,07 87444375,None,3500,vic,plumpton,1993,27
+3607,3607,757258,caleb,clayden,10.0,moore street,07 30939969,fairbank,4575,qld,bayswater north,1953,67
+3608,3608,628423,sam,culph,1.0,bywateestplace,02 52980940,None,6167,wa,clayfield,1982,38
+3634,3634,156481,mollie,cochrane,48.0,ligertwoodnutreet,04 12734849,None,5116,sa,cook,1913,107
+3660,3660,195665,luke,hilton,65.0,bamfordmxtreet,04 36333360,None,2773,nsw,tyabb,1977,43
+3669,3669,257547,caleb,stanley,22.0,melrose drive,03 07982032,None,2125,nsw,auburn,1961,59
+3782,3782,824984,juliana,wilkins,283.0,namatjira drive,08 41452383,None,2800,nsw,wagaman,1908,112
+3891,3891,330147,ella,wehner,39.0,andrews street,04 47674345,wallaces ck,3585,vic,scarborough,1920,100
+3936,3936,849971,lillian,None,19.0,bugden avenue,04 65225381,calderwood,3138,vic,point vernon,1921,99
+4008,4008,199239,allanah,reid,37.0,stanley street,03 18033773,None,2550,nsw,keilor east,1989,31
+4032,4032,205848,rosa,aldous,99.0,dunlop street,07 02455018,fourways,2651,nsw,acland,1993,27
+4040,4040,986364,samantha,divona,9.0,hart close,07 85673315,None,6016,wa,dover heithts,1906,114
+4080,4080,986559,kirra,choi-lundberg,102.0,centaurus street,08 69584599,None,3000,vic,6168,1926,94
+4137,4137,839180,amber,slape,58.0,jukes place,03 79611930,seaforth vlge,4510,qld,nort hyde,1907,113
+4144,4144,301260,talia,antoku,6.0,hoskingdplace,08 43580956,None,4670,qld,None,1934,86
+4162,4162,876676,riley,simmonds,166.0,ambalindum street,07 02048377,None,3501,vic,ascot vale,1981,39
+4188,4188,102352,cooper,lindholm,243.0,mackellar crescent,08 51596665,None,6753,wa,safety beach,1943,77
+4255,4255,379003,harry,bristow,316.0,crescent officer,07 29162528,None,6210,wa,waroona,1966,54
+4263,4263,638181,logan,reid,14.0,clubbe crescent,07 94492272,springwood mews,3134,vic,eaglehawk,1956,64
+4272,4272,565918,mitchell,mcgregor,2.0,burkitt street,07 17713514,None,4272,qld,kilcoy,1988,32
+4316,4316,430170,james,webb,14.0,baker garden,07 24098836,normanhurst,3500,vic,boggabri,1930,90
+4335,4335,413295,thomas,dreyer,13.0,bredbo close,08 15210915,None,2034,nsw,lindfield,1986,34
+4377,4377,462462,mitchell,rundne,50.0,hacking crescent,0,None,3182,vic,greenacrde,1961,59
+4394,4394,967239,harrison,bristow,156.0,barangaroo street,04 16594097,None,5353,sa,carrum,1932,88
+4395,4395,695600,richard,hermans,2.0,goodparla street,07 26649590,nevah farm,3371,vic,valentine,1946,74
+4427,4427,222258,emiily,simmonds,221.0,colebatch place,08 74184903,pine leigh,3187,vic,broken hill,1950,70
+4440,4440,220263,ebony,rawlings,83.0,spica street,0,sunny braes,3156,vic,albany creek,1990,30
+4477,4477,347644,oscar,charitonidis,4.0,knox street,07 77488304,guyra,2758,nsw,lillian rock,1923,97
+4498,4498,596043,braedon,wehher,4.0,chandler street,07 23239728,None,2207,nsw,eatonsill,1980,40
+4517,4517,144760,lillian,coleman,159.0,allambee street,03 72090059,congreave court,5214,sa,kelmscott,1999,21
+4519,4519,958286,nicholas,jankunas,27.0,wakefield avenue,04 96643830,None,5019,sa,wingham,1952,68
+4551,4551,873422,casey,campbell,21.0,None,03 45970253,None,4350,qld,lavingron,1968,52
+4567,4567,443567,leah,waller,45.0,stradbroke street,08 04502781,None,2766,nsw,None,1955,65
+4629,4629,779447,brett,moolenaar,9.0,somerville street,04 98378586,None,3174,vic,somertonv park,1926,94
+4731,4731,698506,mitchell,green,5.0,mckillop circuit,02 08989117,None,2220,nsw,glenmore park,1984,36
+4732,4732,296416,alexander,ongley,32.0,None,03 67891595,boonooloo,2229,nsw,yarra junction,1994,26
+4784,4784,671441,samuel,braib,29.0,macpherson street,07 30779523,sunrest stud,3233,vic,boondall,1949,71
+4789,4789,863461,abby,matthews,31.0,kennewell place,04 88982844,longridge,2650,nsw,cooroy,1954,66
+4796,4796,872791,bethany,snell,7.0,bilby place,02 88624423,None,3981,vic,forrestfield,1955,65
+4802,4802,629739,marcus,reinbach,2.0,dive place,08 38366451,northbridge marina,3931,vic,hazelbrook,1967,53
+4819,4819,396208,kyle,sherriff,5.0,jim pike avenue,02 22087371,cuthberts court,6111,wa,bossley park,1948,72
+4834,4834,538458,deakin,egglestone,88.0,None,07 52159999,None,2157,nsw,emerald,1914,106
+4873,4873,155841,jack,stanley,29.0,sturdee crescent,04 16557952,None,6710,wa,thornlie,1910,110
+4953,4953,507085,natalee,madigan,13.0,None,02 24976027,meath mews retrmnt vlge,3023,vic,prospect,1945,75
+4998,4998,447220,connor,harrington,261.0,numbat place,03 96922045,palm lake resort,2870,nsw,albion park rail,1921,99
+5044,5044,464986,None,chittleborough,7140.0,serpentine street,07 87444375,None,3500,vic,plumpton,1993,27
+5119,5119,170305,timothy,papazacharoudakis,101.0,francis street,04 27462876,matilda park,4650,qld,ingham,1934,86
+5123,5123,713079,connor,hindley,50.0,alice jackson crescent,03 37920549,bristin,4355,qld,ringwoodeast,1931,89
+5129,5129,990023,matisse,coulsln,32.0,tauss place,02 87564221,None,6050,wa,boggabri,1960,60
+5147,5147,942840,makayla,chesjirze,105.0,walhallow street,08 79660642,None,2825,nsw,dooralong,1937,83
+5193,5193,876388,christian,white,1.0,snodgrass crescent,0,flower growers,3977,vic,ngunnawal,1992,28
+5261,5261,954568,kiria,ryan,3.0,beazley crescent,02 95589027,kimberley,2067,nsw,rosewhite,1989,31
+5309,5309,160272,deakin,oleszcuk,9.0,farrer street,03 77767257,None,2257,nsw,beecroft,1973,47
+5408,5408,972379,adam,weller,43.0,pankhurst crescent,04 63020165,None,2222,nsw,kareela,1940,80
+5439,5439,834412,courtney,geraghty,13.0,goldfinch circuit,08 27446355,ilumba gardens home,3013,vic,heathpool,1992,28
+5499,5499,123408,dillon,aspinall,66.0,squire place,04 72158350,None,2341,nsw,botany,1992,28
+5515,5515,622710,hannah,struck,1.0,academy close,08 98425146,None,2158,nsw,kingsford,1939,81
+5551,5551,199977,finlay,stephenson,193.0,pleasance place,04 17443323,None,6101,wa,elwood,1942,78
+5648,5648,406093,mitchell,stanley,13.0,daley crecwent,03 90661389,None,3021,vic,caravonica,1975,45
+5654,5654,616479,None,wekhr,57.0,christmas street,03 15451529,None,3068,vic,mount victoria,1982,38
+5700,5700,371421,mitchell,rundle,50.0,hacking crescent,0,None,3182,vic,greenacre,1961,59
+5712,5712,345144,zali,cirvydas,29.0,melba setreet,08 65451564,None,4740,qld,burnie,1902,118
+5729,5729,973030,delaney,kermeen,9.0,wallen place,08 37919311,None,4405,qld,st kilda east,1939,81
+5777,5777,307352,mitchell,stanley,8.0,mount vernon drive,03 19653778,None,4680,qld,hamilton,1935,85
+5800,5800,474743,kiera,szczecinski,9.0,melrose drive,08 94905506,None,3941,vic,lynbrook,1905,115
+5840,5840,204927,hannah,pagden,2.0,mellor circuit,02 17184151,None,4567,qld,charlestown,1936,84
+5903,5903,484708,louis,blackwell,10.0,dartnell street,02 97010866,None,2046,nsw,lake bibra,1983,37
+5918,5918,643898,amy,mason,115.0,balsillie crescent,02 48437211,None,2126,nsw,view bank,1999,21
+5940,5940,362091,willuam,white,42.0,borrowdale street,03 89262726,None,2400,nsw,carlingfword,1993,27
+6004,6004,712439,charlotte,rusmin,251.0,crozier circuit,04 85107991,None,7470,tas,bogangar,1973,47
+6086,6086,669354,jacob,svenson,48.0,wagga soreet,02 03546747,walhalla,2009,nsw,kempsey,1943,77
+6110,6110,745303,mikayla,green,35.0,None,02 25160752,rowethorpe trinity hostel,3977,vic,riverwood,1958,62
+6150,6150,385713,finlay,stephenson,192.0,pleasance place,04 17443323,jalbarragup homestead,6101,wa,elwood,1942,78
+6164,6164,966491,emiily,bartel,12.0,worrall street,08 28969178,iron shoe lodge,2076,nsw,moranbah,1936,84
+6171,6171,542136,vanessa,browne,169.0,beazley crescent,02 53907917,melrose clinic,3021,vic,elwood,1953,67
+6184,6184,217473,harry,bristow,315.0,officer crescent,07 29162528,None,6210,wa,waroona,1966,54
+6218,6218,902348,isaac,nakoje,19.0,collier street,02 69439226,None,6017,wa,brighton,1964,56
+6228,6228,407680,melanie,wheatley,54.0,antis street,02 86042707,jacklin park farmstay,3444,vic,eleebana,1946,74
+6243,6243,985050,emiily,groenewege,760.0,mcluckie crescent,02 33544106,None,2640,nsw,redhead,1934,86
+6320,6320,384944,emma,petersen,137.0,schlam place,08 45840166,keanor,2500,nsw,euberta,1973,47
+6410,6410,878776,luke,mercorella,15.0,gollan street,02 57389153,None,2614,act,the entrance,1960,60
+6418,6418,307849,hayley,grigolato,35.0,nanson place,02 94291744,None,3214,vic,miami,1966,54
+6445,6445,775926,grayson,lowe,5.0,melba street,04 24267634,tantallon,6227,wa,sunnybank,1989,31
+6482,6482,272502,alexander,grubb,3.0,kinchela crescent,07 41414706,None,5092,sa,batlow,1912,108
+6504,6504,343767,None,kelhley,37.0,bourchier close,07 57849903,None,3977,vic,mona vale,1927,93
+6538,6538,342934,liam,louca,53.0,ballumbir street,03 78308335,emerald garden,6060,wa,kariong,1948,72
+6619,6619,124042,elizabeth,colquhoun,26.0,hawdon street,08 18308644,crosslands,3104,vic,tharbogang,1973,47
+6694,6694,512310,jackson,couzens,130.0,allchin circuit,04 58119726,denture clnc,2546,nsw,prospect,1924,96
+6782,6782,519149,andrew,ryan,20.0,mainwaring rich circuit,0,None,3020,vic,blacktown,1976,44
+6817,6817,179211,madeleine,None,33.0,jansz crescent,04 36021764,None,3825,vic,avondale heights,1956,64
+6820,6820,987081,fyynlay,green,11.0,baracchi crescent,07 83761404,None,6070,wa,broadmeaqdows,1993,27
+6824,6824,761237,danidle,haggett,258.0,amess place,02 62350511,None,2484,nsw,wentworth,1976,44
+6827,6827,498138,macormack,ryan,7.0,ponsford place,07 35367744,camerons creek,4575,qld,burnside,1925,95
+6849,6849,676291,mitchell,niklaus,8.0,mount vernon drive,04 14828181,village on the green,6006,wa,bowral,1939,81
+6864,6864,169518,emiily,simmonds,221.0,colebatch place,08 74184903,pine leigh,3187,vic,broken hill,1957,63
+7119,7119,837651,lsuren,musolino,973.0,berghofer court,07 90471587,None,4680,qld,ourimbah,1927,93
+7182,7182,369637,marleigh,noble,8.0,strickland crescent,03 14568594,None,4812,qld,allambie heights,1920,100
+7220,7220,364179,erin,rudd,6.0,totterdell street,07 56883796,mannafields farm,2713,nsw,cairns,1950,70
+7286,7286,452621,mathew,teague,11.0,morrisonh treet,04 19702338,hawkesbury natural health acupuncture ce,7315,tas,None,1921,99
+7311,7311,919472,jackson,mccarthy,114.0,clemenger street,03 08842416,glen alvie rsd,3162,vic,bondi junction,1954,66
+7399,7399,851395,liam,lamorey,5.0,marou place,04 49778923,None,5069,sa,woy woy,1996,24
+7424,7424,296521,None,miles,4.0,love street,07 17901367,bonholme,6054,wa,birkdle,1964,56
+7439,7439,780206,aleisha,ramiro,80.0,laptz close,08 60316509,None,6432,wa,somerset,1989,31
+7647,7647,482811,cooper,ryan,56.0,smeaton circuit,04 35746986,None,4350,qld,saoe,2005,15
+7799,7799,237263,noah,hindmarch,20.0,katherine avenue,03 37899397,None,3806,vic,rosettja,1975,45
+7809,7809,979191,jake,wynne,29.0,burkitt street,03 46616418,None,4207,qld,greenwith,1975,45
+7817,7817,953159,kiera,szczecnski,9.0,melrosj dive,08 94905506,None,3941,vic,lynbrook,1905,115
+7820,7820,408360,angus,bishop,46.0,egglesto n crescent,02 35014181,murray vale lodge,2142,nsw,blaynt,1935,85
+7859,7859,641220,kai,cure,1.0,kennerley street,08 43839279,rocklea,2097,nsw,terranora,1919,101
+7871,7871,947516,amber,david,28.0,sexton street,04 87755694,edinburgh vlge,2213,nsw,golden grove,1942,78
+7899,7899,246259,isaac,broxam,736.0,morrison street,03 78526997,None,3160,vic,penguin,1942,78
+7914,7914,350072,madison,clarke,17.0,anembo street,04 31690680,None,2170,nsw,bangtor,1949,71
+7977,7977,676623,eleanor,bovam,13.0,stevenson treet,04 56575284,dejarra,6153,wa,ballarat north,1983,37
+8057,8057,584607,sophie,clarke,7.0,macdowell street,07 51448277,deergarden caravn park,3624,vic,muradup,1990,30
+8233,8233,259132,ethan,matthews,104.0,crisp circuit,07 14141423,None,4650,qld,tully,1985,35
+8241,8241,782385,cooper,rya,60.0,smeaton circuit,04 35746986,None,4350,qld,sale,2005,15
+8592,8592,472050,noahn,hindmacrh,20.0,katherine avenue,03 37899397,None,3806,vic,rosetta,1975,45
+9160,9160,441701,isabella,lowe,23.0,woollum street,04 74526652,None,4103,qld,denistoen east,1959,61
+9309,9309,398451,grayson,lowe,4.0,melba street,04 24267634,tantallon,2672,nsw,sunnybank,1989,31
+9806,9806,253412,mitchell,green,5.0,mckillop circuit,02 08989117,None,2220,nsw,glenmore park,1996,24
